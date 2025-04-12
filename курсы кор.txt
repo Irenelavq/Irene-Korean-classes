@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Курсы корейского языка</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Курсы корейского языка</h1>
+      <p>Выбери свой уровень и начни обучение уже сегодня!</p>
+    </header>
+    
+    <main>
+      <div class="levels">
+        <a href="#" class="level-button">Начальный уровень</a>
+        <a href="#" class="level-button">Средний уровень</a>
+        <a href="#" class="level-button">Продвинутый уровень</a>
+      </div>
+    </main>
+    
+    <footer>
+      <p>&copy; 2025 Korean Class | Все права защищены</p>
+    </footer>
+  </div>
+</body>
+</html>
